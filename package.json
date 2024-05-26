@@ -1,5 +1,5 @@
 {
-  "name": "footer-component",
+  "name": "footer-component-By-Rajat_Porwal",
   "version": "1.0.0",
   "description": "A personal Footer Component that I am using in all of my projects and also available on npm repository for anyone else that wants to modifiy it to use it as their own, all it requires is changing the name and the link",
   "main": "index.js",
